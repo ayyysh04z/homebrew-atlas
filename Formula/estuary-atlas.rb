@@ -26,7 +26,7 @@ class EstuaryAtlas < Formula
   # ─── Release info (bump on every release) ──────────────────────────────────
   version "0.1.0"
   url "https://github.com/ayyysh04z/estuary-atlas/releases/download/v0.1.0/estuary-atlas-v0.1.0.tar.gz"
-  sha256 "2613df4dbf7e6d431b16511c6a0b16fe660408602d372d489a831b59b9a1afe0"
+  sha256 "da35086be716540c9960d453c718db5d741a8f382af7c27957aeb276bf7ff76c"
   # ────────────────────────────────────────────────────────────────────────────
 
   depends_on "node"
